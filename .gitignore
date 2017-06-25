@@ -44,3 +44,9 @@ tm*.log
 tm.out
 worker*.log
 /bin
+.hgcheck
+COPYING
+LICENSE
+activator.properties
+.travis.yml
+tutorial
